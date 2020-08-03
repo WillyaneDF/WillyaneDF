@@ -2,7 +2,7 @@
 ![](https://github.com/WillyaneDF/WillyaneDF/blob/master/catme.png)
 
 
-**Olá meu nome é Willyane ,sou estudante de Redes de Computadores e amo tecnologia ! 💜 ** 
+**Olá meu nome é Willyane ,sou estudante de Redes de Computadores e amo tecnologia ! 💜** 
  
 ____________________________________________________________________
 - 🔭 Atualmente estou em busca de uma vaga de estágio 
