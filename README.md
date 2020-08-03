@@ -1,7 +1,11 @@
-**Olá, meu nome é Willyane **
+**Olá Seja bem vindo ao meu Github 💜 ** 
  
  Sou estudante de Redes de Computadores e amo tecnologia ! 
 ____________________________________________________________________
+- 🔭 Atualmente estou em busca de uma vaga de estágio 
+- 🌱 Tenho estudado packet tracer, linux (vim) , power shell 
+- 🤔 Nas horas livres gosto de estudar um pouco de programação ( básico em css , html e javascript) 
+
 ![](./octocatme.png)
 
 
