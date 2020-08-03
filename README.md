@@ -8,7 +8,7 @@ ____________________________________________________________________
 - 📫 Meu perfil no linkedin https://www.linkedin.com/in/willyane-dias-freire-6b1032173/
 - 😄 Ler é meu hobby favorito https://www.skoob.com.br/usuario/5161120-willyanedias#_=_
 
-![](./octocat.png)
+![](https://github.com/WillyaneDF/WillyaneDF/blob/master/octocatme.png)
 
 
 <!--
