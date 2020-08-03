@@ -1,6 +1,9 @@
-**Olá Seja bem vindo ao meu Github 💜 ** 
+
+![](https://github.com/WillyaneDF/WillyaneDF/blob/master/octocatme.png)
+
+
+**Olá meu nome é Willyane ,sou estudante de Redes de Computadores e amo tecnologia ! 💜 ** 
  
- Sou estudante de Redes de Computadores e amo tecnologia ! 
 ____________________________________________________________________
 - 🔭 Atualmente estou em busca de uma vaga de estágio 
 - 🌱 Tenho estudado packet tracer, linux (vim) , power shell 
@@ -8,7 +11,7 @@ ____________________________________________________________________
 - 📫 Meu perfil no linkedin https://www.linkedin.com/in/willyane-dias-freire-6b1032173/
 - 😄 Ler é meu hobby favorito https://www.skoob.com.br/usuario/5161120-willyanedias#_=_
 
-![](https://github.com/WillyaneDF/WillyaneDF/blob/master/octocatme.png)
+
 
 
 <!--
